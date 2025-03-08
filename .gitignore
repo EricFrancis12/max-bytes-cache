@@ -1,0 +1,6 @@
+**/bin
+**/max-bytes-cache
+**/application
+**/bootstrap
+**/*.exe
+**/*.msi
